@@ -12,6 +12,7 @@
 * [Environment](#environment)
 * [Geographic Boundaries](#boundaries)
 * [Geography](#geography)
+* [Government](#government)
 * [Health & Wellness](#health)
 * [Homelessness](#homelessness)
 * [Housing](#housing)
@@ -120,6 +121,8 @@
 ## Atlanta
 * [Community Development Impact Areas](http://govathon.com/CDIA.ZIP)
 * [Empowerment Zones](http://govathon.com/Empowerment_Zones.zip)
+* [Construction Permits](https://aca3.accela.com/atlanta_ga/Cap/CapHome.aspx?module=Building&TabName=Building)
+* [Business Listings](https://web.atlantaga.gov/blis/businesslookup.aspx)
 
 
 
@@ -312,6 +315,18 @@
 
 
 
+# <div id="government">Government</div>
+
+## Atlanta
+* [Campaign Finance Contributions](http://media.ethics.ga.gov/search/Campaign/Campaign_ByContributions.aspx)
+* [Lobbyist Activity](http://media.ethics.ga.gov/search/Lobbyist/Lobbyist_ByName.aspx)
+* [Asset Disclosure](http://media.ethics.ga.gov/search/Financial/Financial_ByName.aspx)
+* [Budget](http://www.atlantaga.gov/index.aspx?page=204)
+* [Procurement](http://www.atlantaga.gov/index.aspx?page=1014)
+
+
+
+
 
 # <div id="health">Health & Wellness</div>
 
@@ -325,6 +340,9 @@
 * [Medicare & Medicaid Data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html?redirect=/home/rsds.asp)
 * [Health Resources & Services Administration Data Warehouse](https://datawarehouse.hrsa.gov/)
 * [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)
+
+## Georgia
+* [Restaurant Inspections](http://dph.georgia.gov/environmental-health-inspections)
 
 ## Atlanta Regional Commission
 * [Hospital Community Facilities](http://opendata.atlantaregional.com/datasets/hospital-community-facilities)
@@ -565,6 +583,10 @@
 ## Fulton County
 * [Structure Footprints](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7BDF98E97E-BA8B-453E-A2AD-A7DFB74FF58A%7D)
 * [Aerial Imagery](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7BBBB7FC62-FE3D-4F87-9D19-BC3E965304D1%7D)
+
+## Atlanta
+* [Code Enforcement Violations](https://aca3.accela.com/atlanta_ga/default.aspx)
+* [Property Records](http://www.qpublic.net/ga/fulton/search.html)
 
 ## Sandy Springs
 * [Buildings Pavement Area](http://data.coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102)
