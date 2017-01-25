@@ -1,5 +1,6 @@
 # A list of open data resources for metro Atlanta and the state of Georgia.
 
+* [Data Portals](#portals)
 * [Accessibility](#accessibility)
 * [Crime, Safety, & Violence](#crime)
 * [Demographics](#demographics)
@@ -29,6 +30,14 @@
 
 
 
+# <div id="portals">Portals</div>
+
+* [Johns Creek Open Data](http://geodata.johnscreekga.gov/)
+* [Johns Creek Police Department](https://policeview.johnscreekga.gov/)
+
+
+
+
 
 # <div id="accessibility">Accessibility</div>
 
@@ -52,6 +61,14 @@
 * [Atlanta Police Department Open Data](http://opendata.atlantapd.org/)
 * [Atlanta Police Department Data](https://github.com/codeforatlanta/apd-crime-data/blob/master/APD_crime.csv)
 
+## Johns Creek
+* [JCPD Calls for Service](https://policeview.johnscreekga.gov/en/Government/JCPD-Call-Volume-and-Types-of-Calls/ghqk-6cu6)
+* [JCPD Incidents](https://policeview.johnscreekga.gov/Government/Incidents/djtc-njyh)
+* [JCPD Citations](https://policeview.johnscreekga.gov/en/Government/Citation-Data-Analysis/q342-wx2j)
+* [JCPD Accident Data](https://policeview.johnscreekga.gov/en/Government/Johns-Creek-Accident-Data-Analysis/nvrg-5r6z)
+* [Police Calls for Service](http://geodata.johnscreekga.gov/datasets/eb38ea13c0af4ba19d2a46c1972525a0_0)
+* [Police Citations Written](http://geodata.johnscreekga.gov/datasets/d68b70d926344b088382d3bf4651f827_0)
+
 ## Sandy Springs
 * [Sandy Springs Police Department incident dataset](https://sandysprings.data.socrata.com/dataset/Sandy-Springs-Police-Department/e83e-2fm7)
 * [Apartment Safety Checker](http://sspd.maps.arcgis.com/apps/webappviewer/index.html?id=5ee268a6a1534324b7ac53f8fc5715e1)
@@ -70,6 +87,9 @@
 
 ## Atlanta Regional Commission
 * [Worker Characteristics](http://opendata.atlantaregional.com/datasets/worker-characteristics)
+
+## Johns Creek
+* [Demographic Data](http://geodata.johnscreekga.gov/datasets?keyword=demographics&sort_by=name)
 
 
 
@@ -118,6 +138,11 @@
 
 ## Fulton County
 * [Public Safety Answering Point Service Areas](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7BE3F1FF71-2448-408B-B517-1A2EAD467789%7D)
+
+## Johns Creek
+* [Fire Department Incidents](http://geodata.johnscreekga.gov/datasets/4a2dc3819adb42fca3549512de8f29c7_0)
+* [Fire Response Zones](http://geodata.johnscreekga.gov/datasets/d06281587dc44743bfcc9f51c1be739c_0)
+* [Police Beats](http://geodata.johnscreekga.gov/datasets/b90138a6920247fdb016a9dcbc12f504_0)
 
 
 
@@ -180,6 +205,12 @@
 * [Parks](http://govathon.com/Atlanta-Parks.zip)
 * [Recreational Centers](http://govathon.com/Rec-Centers.zip)
 
+## Johns Creek
+* [Floodplains](http://geodata.johnscreekga.gov/datasets/d37b403e0348407b89a7a0bdd578e994_0)
+* [Impaired Streams](http://geodata.johnscreekga.gov/datasets/b9e71812dfe64003b3ed3fb9966131b3_0)
+* [Rivers and Streams](http://geodata.johnscreekga.gov/datasets/17fad65f892746eb87bbbaaf3a7bdf2f_0)
+* [Topographic Contours](http://geodata.johnscreekga.gov/datasets/e44607728ab8467384a3342b512441cd_0)
+
 ## Sandy Springs
 * [Parks](http://data.coss.opendata.arcgis.com/datasets/d4411ef6c2464b7c9c3b05ae9240f098_103)
 * [Stream Buffers](http://data.coss.opendata.arcgis.com/datasets/9e294755834d4b118a63883510fa55ea_100)
@@ -221,6 +252,20 @@
 * [City of Atlanta Neighborhood Statistical Areas](http://opendata.atlantaregional.com/datasets/city-of-atlanta-neighborhood-statistical-areas)
 * [City of Atlanta Council District boundaries](http://opendata.atlantaregional.com/datasets/city-of-atlanta-council-districts)
 * [Atlanta BeltLine](http://gis.atlantaga.gov/apps/gislayers/download/layers/gis_plan_beltline_tcu_corridor_st.zip)
+
+## Johns Creek
+* [Address Points](http://geodata.johnscreekga.gov/datasets/d7df3bc55138483282757592c5650e25_0)
+* [Business Locations](http://geodata.johnscreekga.gov/datasets/1e03e5d6e8a54032a362382cc1312f2c_0)
+* [Monuments](http://geodata.johnscreekga.gov/datasets/9f4b508378934ae5b3dec5275b45ca9b_0)
+* [Land Lots](http://geodata.johnscreekga.gov/datasets/bb7bfd735ea648299ded0579bb8ec89f_0)
+* [Landmarks](http://geodata.johnscreekga.gov/datasets/2fab2c70146d4f089970460f575ca185_0)
+* [Neighborhoods](http://geodata.johnscreekga.gov/datasets/494e5559923d4a23bb9eda40673a3dd2_0)
+* [Parcels](http://geodata.johnscreekga.gov/datasets/774f52f47ad14a8389af0f851499e4d9_0)
+* [Private Recreation Amenities](http://geodata.johnscreekga.gov/datasets/202dc8481212475f9e105acd9a5effca_0)
+* [Structure Footprints](http://geodata.johnscreekga.gov/datasets/2e765a9743d1447199c9d08a8b047370_0)
+* [Street Centerlines](http://geodata.johnscreekga.gov/datasets/fba81fd855da406fbcae13f159df7b54_0)
+* [Street Intersections](http://geodata.johnscreekga.gov/datasets/a5dbda88f03142e784a43ae61e8bc5c3_0)
+* [Chattahoochee River Corridor (within Johns Creek)](http://geodata.johnscreekga.gov/datasets/27459e7b528c44cfa8c8d01ac39fb448_0)
 
 ## Sandy Springs
 * [City Council Districts](http://data.coss.opendata.arcgis.com/datasets/115bba1b0fb748649f684b1431f14a06_104)
@@ -315,6 +360,13 @@
 
 ## Fulton County
 * [Structural Assets of the Government of Fulton County](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7B0C2A8929-0C3A-4088-91BB-0682A829DA91%7D)
+
+## Johns Creek
+* [Right of Way Lines](http://geodata.johnscreekga.gov/datasets/6c1472ff6570486ab2f18c241642d980_0)
+* [Sidewalks and Trails](http://geodata.johnscreekga.gov/datasets/314b173fd460423e84071ba17f7a61d1_0)
+* [Stormwater Conveyances](http://geodata.johnscreekga.gov/datasets/4cf099dafa744d2d97830ce2ce32b186_0)
+* [Stormwater Structures](http://geodata.johnscreekga.gov/datasets/7f7b7cf0e011470bbd4222c74d420cf3_0)
+* [Flood Study Cut Lines](http://geodata.johnscreekga.gov/datasets/ff5abc85e7c24a46b653dd21924a7f7d_0)
 
 ## Sandy Springs
 * [Public Works Street Atlas](https://gis.sandyspringsga.gov/opendata/maps/PublicWorksStreetAtlas2016.pdf)
@@ -443,6 +495,11 @@
 * [Multi Use Paths](http://opendata.atlantaregional.com/datasets/Dunwoody::multi-use-paths)
 * [Sidewalks](http://opendata.atlantaregional.com/datasets/Dunwoody::sidewalks)
 
+## Johns Creek
+* [Sidewalks and Trails](http://geodata.johnscreekga.gov/datasets/314b173fd460423e84071ba17f7a61d1_0)
+* [Street Centerlines](http://geodata.johnscreekga.gov/datasets/fba81fd855da406fbcae13f159df7b54_0)
+* [Street Intersections](http://geodata.johnscreekga.gov/datasets/a5dbda88f03142e784a43ae61e8bc5c3_0)
+
 ## Sandy Springs
 * [Public Streets](http://opendata.atlantaregional.com/datasets/87a17f7492554e2b942aaf275981d156_115)
 * [Public and Private Streets](http://data.coss.opendata.arcgis.com/datasets/ee776b18fb724a59a7de5a3d2ca0eee0_101)
@@ -450,7 +507,6 @@
 * [Traffic Cameras](http://data.coss.opendata.arcgis.com/datasets/traffic-cameras-sandy-springs-georgia)
 * [Road Events](http://data.coss.opendata.arcgis.com/datasets/road-event-open-data-sandy-springs-georgia)
 * [Sidewalk Access](http://data.coss.opendata.arcgis.com/datasets/536c2173075c48569b58b284a05aba95_114)
-
 
 
 
@@ -483,6 +539,9 @@
 ## Sandy Springs
 * [Zoning](http://data.coss.opendata.arcgis.com/datasets/264eb8be832043aba237ee2feda1f7e5_110)
 
+## Johns Creek
+* [Zoning](http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0)
+
 
 
 
@@ -499,6 +558,10 @@
 
 ## Sandy Springs
 * [Buildings Pavement Area](http://data.coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102)
+
+## Johns Creek
+* [Code Compliance Cases](http://geodata.johnscreekga.gov/datasets/3bf0f1171a1b4bd79223ecf6c146accc_0)
+* [Building Permits Issued](http://geodata.johnscreekga.gov/datasets/65b4974c90f8465a99fec4d4ff7d7b30_0)
 
 
 
