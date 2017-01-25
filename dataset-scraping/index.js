@@ -1,14 +1,15 @@
 const fs = require('mz/fs')
-// const json2csv = require('json2csv')
 
 // Import scrapers. Expects the module to export a function that
 // takes no arguments and returns a Promise of an array of
 // objects like:
 //   {name: String, description: String, category: String, url: String}
 
-const socrata = require('./socrata')
+const scrapers = [
+  require('./socrata')()
+]
 
-Promise.all([ socrata() ])
+Promise.all(scrapers)
   .then((resultSets) => {
     // flatten
     const results = [].concat.apply([], resultSets)
@@ -20,9 +21,9 @@ Promise.all([ socrata() ])
     }, {})
     // create markdown category headers and links
     const md = Object.keys(data).reduce((acc, key) => {
-      const links = data[key].reduce((acc, item) => acc + `- [${item.name}](${item.url})\n`, "")
-      return acc + `\n\n# ${key}\n\n` + links
-    }, "")
+      const links = data[key].reduce((acc, item) => acc + `* [${item.name}](${item.url})\n`, "")
+      return acc + `# ${key}` + '\n\n' + links + '\n\n'
+    }, `Last Generated: ${new Date().toLocaleString()}\n\n`)
     return fs.writeFile('output.md', md)
   }, "")
   .then(() => {
