@@ -22,7 +22,7 @@ Promise.all([ socrata() ])
     const md = Object.keys(data).reduce((acc, key) => {
       const links = data[key].reduce((acc, item) => acc + `- [${item.name}](${item.url})\n`, "")
       return acc + `\n\n# ${key}\n\n` + links
-    })
+    }, "")
     return fs.writeFile('output.md', md)
   }, "")
   .then(() => {
