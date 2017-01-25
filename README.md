@@ -30,10 +30,20 @@
 
 
 
-# <div id="portals">Portals</div>
+# <div id="portals">Data Portals</div>
 
 * [Johns Creek Open Data](http://geodata.johnscreekga.gov/)
 * [Johns Creek Police Department](https://policeview.johnscreekga.gov/)
+* [Atlanta Regional Commission Open Data](http://opendata.atlantaregional.com/)
+* [City of Atlanta DataAtlanta](http://www.atlantaga.gov/index.aspx?page=1197)
+* [Georgia GIS Clearinghouse](https://data.georgiaspatial.org/login.asp)
+* [Fulton County Geoportal](http://share.myfultoncountyga.us:8080/geoportal/catalog/main/home.page)
+* [Sandy Springs Open Data](http://data.coss.opendata.arcgis.com/)
+* [Georgia Open Data](http://data.georgiagio.opendata.arcgis.com/datasets)
+
+## Not Georgia-Specific
+* [Open Data Network](https://www.opendatanetwork.com/entity/310M200US12060/Atlanta_Metro_Area_GA/demographics.population.count?ref=search-entity&year=2014)
+* [American FactFinder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
 
 
 
