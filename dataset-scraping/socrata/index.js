@@ -13,7 +13,7 @@ function loadPage(offset, loadedResults) {
           name: result.resource.name,
           description: result.resource.description,
           category: result.classification.domain_category,
-          url: result.classification.permalink
+          url: result.permalink
         }
       })) 
       if (res.resultSetSize > totalResults.length) {
