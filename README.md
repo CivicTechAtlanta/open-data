@@ -70,6 +70,7 @@
 
 ## Atlanta
 * [Atlanta Police Department Open Data](http://opendata.atlantapd.org/)
+* [Atlanta Police Department Crime Data Downloads](http://www.atlantapd.org/i-want-to/crime-data-downloads)
 * [Atlanta Police Department Data](https://github.com/codeforatlanta/apd-crime-data/blob/master/APD_crime.csv)
 
 ## Johns Creek
