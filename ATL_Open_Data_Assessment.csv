@@ -1,3 +1,4 @@
 Name,Link,Complete,Primary,Timely,Accessable,Machine Processable,Non-Discriminatory,Non-proprietary,License-Free,Other Notes / Improvement Ideas
 Atlanta Police Department Open Data Portal,http://opendata.atlantapd.org/,No - 1) one month at a time; 2) Only Part I crime reports included,Yes,Yes (updated weekly),**Not sure**,No - the tool is written in ASP w/ Javascript postback functions,Yes,Yes,Yes,"1) Broken link on ""Home"" page to crime data downloads
 2) No ""Contact Webmaster"" link or notes on who manages the data"
+Atlanta Police Department Crime Data Downloads,http://www.atlantapd.org/i-want-to/crime-data-downloads,Yes,Yes,No (as of 1/24/17 the latest was 1/11/17) --> should be weekly,No (Excel file embedded in zip file),No - lacking documentation of normalized codes,Yes,No (Excel file),Yes,NA
