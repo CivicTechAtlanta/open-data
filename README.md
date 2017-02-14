@@ -44,6 +44,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Fulton County Geoportal](http://share.myfultoncountyga.us:8080/geoportal/catalog/main/home.page)
 * [Sandy Springs Open Data](http://data.coss.opendata.arcgis.com/)
 * [Georgia Open Data](http://data.georgiagio.opendata.arcgis.com/datasets)
+* [Tucker Open Data](http://data-tucker-ga.opendata.arcgis.com/)
 
 ## Not Georgia-Specific
 * [Open Data Network](https://www.opendatanetwork.com/entity/310M200US12060/Atlanta_Metro_Area_GA/demographics.population.count?ref=search-entity&year=2014)
@@ -286,6 +287,9 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 ## Sandy Springs
 * [City Council Districts](http://data.coss.opendata.arcgis.com/datasets/115bba1b0fb748649f684b1431f14a06_104)
+
+## Tucker
+* [City Council Districts](http://data-tucker-ga.opendata.arcgis.com/datasets/council-districts)
 
 ## Miscellaneous
 * [Aerotropolis boundary](http://opendata.atlantaregional.com/datasets/aerotropolis-boundary)
@@ -568,11 +572,14 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 # <div id="zoning">Zoning
 
+## Johns Creek
+* [Zoning](http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0)
+
 ## Sandy Springs
 * [Zoning](http://data.coss.opendata.arcgis.com/datasets/264eb8be832043aba237ee2feda1f7e5_110)
 
-## Johns Creek
-* [Zoning](http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0)
+## Tucker
+* [Zoning](http://data-tucker-ga.opendata.arcgis.com/datasets/zoning-districts)
 
 
 
@@ -592,13 +599,15 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Code Enforcement Violations](https://aca3.accela.com/atlanta_ga/default.aspx)
 * [Property Records](http://www.qpublic.net/ga/fulton/search.html)
 
-## Sandy Springs
-* [Buildings Pavement Area](http://data.coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102)
-
 ## Johns Creek
 * [Code Compliance Cases](http://geodata.johnscreekga.gov/datasets/3bf0f1171a1b4bd79223ecf6c146accc_0)
 * [Building Permits Issued](http://geodata.johnscreekga.gov/datasets/65b4974c90f8465a99fec4d4ff7d7b30_0)
 
+## Sandy Springs
+* [Buildings Pavement Area](http://data.coss.opendata.arcgis.com/datasets/eb2c078ee8384dfa99a3fa621c08ee68_102)
+
+## Tucker
+* [Proposed Land Use](http://data-tucker-ga.opendata.arcgis.com/datasets/proposed-land-use)
 
 
 
