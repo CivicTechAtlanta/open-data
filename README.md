@@ -21,6 +21,7 @@
 * [Natural Resources](#naturalresources)
 * [Poverty](#poverty)
 * [Preservation](#preservation)
+* [Smart Cities](#smartcities)
 * [Tax](#tax)
 * [Transportation](#transportation)
 * [Veterans](#veterans)
@@ -77,6 +78,8 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Atlanta Police Department Crime Data Downloads](http://www.atlantapd.org/i-want-to/crime-data-downloads)
 * [Atlanta Police Department Data](https://github.com/codeforatlanta/apd-crime-data/blob/master/APD_crime.csv)
 * [Crime](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
+* [Sample of Police Incidents](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
+* [APD Camera Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 
 ## Johns Creek
 * [JCPD Calls for Service](https://policeview.johnscreekga.gov/en/Government/JCPD-Call-Volume-and-Types-of-Calls/ghqk-6cu6)
@@ -407,6 +410,8 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Street Sweeping Months](http://www.atlantaga.gov/modules/showdocument.aspx?documentid=24176)
 * [Grass Cutting Months](http://www.atlantaga.gov/modules/showdocument.aspx?documentid=24176)
 * [Street Lights](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
+* [Recycling Carts](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
+* [Public Works Work Order Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 
 ## Johns Creek
 * [Right of Way Lines](http://geodata.johnscreekga.gov/datasets/6c1472ff6570486ab2f18c241642d980_0)
@@ -473,6 +478,15 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 
 
+# <div id="smartcities">Smart Cities</div>
+
+## U.S.
+* [GE Intelligent Environments APIs](https://ie-cities-docs.run.aws-usw02-pr.ice.predix.io/)
+* [GE Intelligent Environments Reference App](https://github.com/CurrentByGE/ie-angular-cities-ref-app)
+
+
+
+
 
 # <div id="tax">Tax</div>
 
@@ -528,6 +542,11 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 ## MARTA
 * [MARTA feeds](http://www.itsmarta.com/app-developer-resources.aspx)
+* [Automated Fare Collection (Breeze Card swipes on rail station gates), 1 week of sample data](https://s3.amazonaws.com/martahack/afcdata_week.csv.zip)
+* [Automated Fare Collection (Breeze Card swipes on rail station gates), 1 month of sample data](https://s3.amazonaws.com/martahack/afcdata_month.csv.zip)
+* [Automated Passenger Counts (Passenger on and off data from buses), 1 week of sample data](https://s3.amazonaws.com/martahack/apcdata_week.csv.zip)
+* [Automated Passenger Counts (Passenger on and off data from buses), 1 month of sample data](https://s3.amazonaws.com/martahack/apcdata_month.csv.zip)
+* [Data Samples](http://opendata.itsmarta.com/hackathon/)
 
 ## Cobb County
 * [Roads](http://opendata.atlantaregional.com/datasets/de788a3777814e0ebb201b6695e3e442_0)
@@ -541,6 +560,9 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Real-time Transit Routes](https://municipal.systems/v1/municipalities/atl-ga/transit_routes?limit=20)
 * [Real-time Transit Stations](https://municipal.systems/v1/municipalities/atl-ga/transit_stations?limit=20)
 * [Real-time Transit Vehicles](https://municipal.systems/v1/municipalities/atl-ga/transit_vehicles?limit=20)
+* [School Zone Flasher Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
+* [Vehicle Counts Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
+* [Metal Plate Locations Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 
 ## Dunwoody
 * [Streets](http://opendata.atlantaregional.com/datasets/Dunwoody::streets)
@@ -564,7 +586,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 
 
-# <div id="veterans">Veterans
+# <div id="veterans">Veterans</div>
 
 ## U.S.
 * [American Community Survey](https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml)
@@ -587,7 +609,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 
 
-# <div id="zoning">Zoning
+# <div id="zoning">Zoning</div>
 
 ## Johns Creek
 * [Zoning](http://geodata.johnscreekga.gov/datasets/40b558a400ea4e28bce6f33c40701653_0)
@@ -617,6 +639,8 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Code Enforcement Violations](https://aca3.accela.com/atlanta_ga/default.aspx)
 * [Property Records](http://www.qpublic.net/ga/fulton/search.html)
 * [Events](https://municipal.systems/v1/municipalities/atl-ga/events?limit=20)
+* [Special Events Permits Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
+* [Street Closures Permits Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 
 ## Johns Creek
 * [Code Compliance Cases](http://geodata.johnscreekga.gov/datasets/3bf0f1171a1b4bd79223ecf6c146accc_0)
