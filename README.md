@@ -76,6 +76,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Atlanta Police Department Open Data](http://opendata.atlantapd.org/)
 * [Atlanta Police Department Crime Data Downloads](http://www.atlantapd.org/i-want-to/crime-data-downloads)
 * [Atlanta Police Department Data](https://github.com/codeforatlanta/apd-crime-data/blob/master/APD_crime.csv)
+* [Crime](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
 
 ## Johns Creek
 * [JCPD Calls for Service](https://policeview.johnscreekga.gov/en/Government/JCPD-Call-Volume-and-Types-of-Calls/ghqk-6cu6)
@@ -270,6 +271,8 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [City of Atlanta Neighborhood Statistical Areas](http://opendata.atlantaregional.com/datasets/city-of-atlanta-neighborhood-statistical-areas)
 * [City of Atlanta Council District boundaries](http://opendata.atlantaregional.com/datasets/city-of-atlanta-council-districts)
 * [Atlanta BeltLine](http://gis.atlantaga.gov/apps/gislayers/download/layers/gis_plan_beltline_tcu_corridor_st.zip)
+* [Parcels](https://municipal.systems/v1/municipalities/atl-ga/parcels?limit=20)
+* [Zones](https://municipal.systems/v1/municipalities/atl-ga/zones?limit=20)
 
 ## Johns Creek
 * [Address Points](http://geodata.johnscreekga.gov/datasets/d7df3bc55138483282757592c5650e25_0)
@@ -396,6 +399,14 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 ## Fulton County
 * [Structural Assets of the Government of Fulton County](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7B0C2A8929-0C3A-4088-91BB-0682A829DA91%7D)
+
+## Atlanta
+* [Trash Containers](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
+* [Trash Pick-up Days](http://www.atlantaga.gov/modules/showdocument.aspx?documentid=24176)
+* [Bulk Collection Weeks](http://www.atlantaga.gov/modules/showdocument.aspx?documentid=24176)
+* [Street Sweeping Months](http://www.atlantaga.gov/modules/showdocument.aspx?documentid=24176)
+* [Grass Cutting Months](http://www.atlantaga.gov/modules/showdocument.aspx?documentid=24176)
+* [Street Lights](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
 
 ## Johns Creek
 * [Right of Way Lines](http://geodata.johnscreekga.gov/datasets/6c1472ff6570486ab2f18c241642d980_0)
@@ -524,6 +535,12 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 ## Atlanta
 * [Atlanta Bicycle Coalition Traffic Counts](https://www.dropbox.com/sh/i1pdkccpto3rcgk/8kvUniSjZr)
 * [Streetcar Route Map](http://www.atlantadowntown.com/_files/docs/atlanta_streetcar_route_8_12.pdf)
+* [Real-time Traffic Cameras](https://municipal.systems/v1/municipalities/atl-ga/traffic_cameras?limit=20)
+* [Real-time Traffic Incidents](https://municipal.systems/v1/municipalities/atl-ga/traffic_incidents?limit=20)
+* [Real-time Traffic Jams](https://municipal.systems/v1/municipalities/atl-ga/traffic_jams?limit=20)
+* [Real-time Transit Routes](https://municipal.systems/v1/municipalities/atl-ga/transit_routes?limit=20)
+* [Real-time Transit Stations](https://municipal.systems/v1/municipalities/atl-ga/transit_stations?limit=20)
+* [Real-time Transit Vehicles](https://municipal.systems/v1/municipalities/atl-ga/transit_vehicles?limit=20)
 
 ## Dunwoody
 * [Streets](http://opendata.atlantaregional.com/datasets/Dunwoody::streets)
@@ -596,8 +613,10 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Aerial Imagery](http://share.myfultoncountyga.us:8080/geoportal/catalog/search/resource/details.page?uuid=%7BBBB7FC62-FE3D-4F87-9D19-BC3E965304D1%7D)
 
 ## Atlanta
+* [311 Issues](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
 * [Code Enforcement Violations](https://aca3.accela.com/atlanta_ga/default.aspx)
 * [Property Records](http://www.qpublic.net/ga/fulton/search.html)
+* [Events](https://municipal.systems/v1/municipalities/atl-ga/events?limit=20)
 
 ## Johns Creek
 * [Code Compliance Cases](http://geodata.johnscreekga.gov/datasets/3bf0f1171a1b4bd79223ecf6c146accc_0)
