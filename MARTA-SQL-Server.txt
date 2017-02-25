@@ -1,0 +1,5 @@
+SQL Server: 52.201.159.78
+User: azureuser
+Pass: azure000!
+Database: Hackathon
+Also a database called Mobility for MARTA Mobility (van) service.
