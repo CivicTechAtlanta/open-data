@@ -506,6 +506,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 ## U.S.
 * [Low Transportation Cost Index](http://opendata.atlantaregional.com/datasets/HUD::low-transportation-cost-index)
 * [Rail Safety Data](http://safetydata.fra.dot.gov/OfficeofSafety/Default.aspx)
+* [Walk Score](https://www.walkscore.com/professional/walk-score-apis.php)
 
 ## State
 * [State Highways](http://opendata.atlantaregional.com/datasets/state-highways)
