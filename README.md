@@ -337,6 +337,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Asset Disclosure](http://media.ethics.ga.gov/search/Financial/Financial_ByName.aspx)
 * [Budget](http://www.atlantaga.gov/index.aspx?page=204)
 * [Procurement](http://www.atlantaga.gov/index.aspx?page=1014)
+* [Employee Salaries 2016](https://github.com/bbrewington/atlanta-salary-data)
 
 
 
