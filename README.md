@@ -562,6 +562,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Real-time Transit Routes](https://municipal.systems/v1/municipalities/atl-ga/transit_routes?limit=20)
 * [Real-time Transit Stations](https://municipal.systems/v1/municipalities/atl-ga/transit_stations?limit=20)
 * [Real-time Transit Vehicles](https://municipal.systems/v1/municipalities/atl-ga/transit_vehicles?limit=20)
+* [Relay Bikeshare GBFS](https://relaybikeshare.socialbicycles.com/opendata)
 * [School Zone Flasher Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 * [Vehicle Counts Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 * [Metal Plate Locations Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
