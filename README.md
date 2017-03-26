@@ -413,7 +413,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Street Lights](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
 * [Recycling Carts](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 * [Public Works Work Order Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
-* [Renew Atlanta infrastructure bond budget and progress](http://renewatlantabond.com/)
+* [Renew Atlanta infrastructure bond budget and progress](http://renewatlantabond.com/) ([Scraper](https://github.com/bbrewington/renew-atlanta))
 
 ## Johns Creek
 * [Right of Way Lines](http://geodata.johnscreekga.gov/datasets/6c1472ff6570486ab2f18c241642d980_0)
