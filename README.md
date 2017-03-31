@@ -519,7 +519,8 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Automated Traffic Recorder Locations and Data](http://www.dot.ga.gov/DS/Data)
 * [Traffic Factor Statistics](http://www.dot.ga.gov/DS/Data)
 * [Road Mileage Reports](http://www.dot.ga.gov/DS/Data#tab-2)
-
+* [GA DOT Projects (BI Tool)](https://gdotbiext.dot.ga.gov/analytics/saw.dll?Dashboard)
+* [GA DOT Transportation Project Search](http://www.dot.ga.gov/BS/Projects/ProjectSearch)
 ## Atlanta Regional Commission
 * [Metro Atlanta Bicycle Facility Inventory, 2014](http://opendata.atlantaregional.com/datasets/metro-atlanta-bicycle-facility-inventory-2014)
 * [Bike Facility Inventory, 2007](http://opendata.atlantaregional.com/datasets/bike-facility-inventory-2007)
