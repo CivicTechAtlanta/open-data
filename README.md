@@ -552,6 +552,9 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Automated Passenger Counts (Passenger on and off data from buses), 1 month of sample data](https://s3.amazonaws.com/martahack/apcdata_month.csv.zip)
 * [Data Samples](http://opendata.itsmarta.com/hackathon/)
 * [Sample Data on SQL Server](MARTA-SQL-Server.txt)
+* [Archived Marta Realtime Data](http://klingmandesign.com/marta/)
+* [Public Transportation Association Data Index](http://www.apta.com/resources/statistics/Documents/Forms/AllItems.aspx?RootFolder=%2fresources%2fstatistics%2fDocuments%2fRidership&FolderCTID=0x0120006BE9AB89F00BAE4583BADAD635F81BA6)
+* 
 
 ## Cobb County
 * [Roads](http://opendata.atlantaregional.com/datasets/de788a3777814e0ebb201b6695e3e442_0)
