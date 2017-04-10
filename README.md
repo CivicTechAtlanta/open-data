@@ -355,6 +355,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Medicare & Medicaid Data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html?redirect=/home/rsds.asp)
 * [Health Resources & Services Administration Data Warehouse](https://datawarehouse.hrsa.gov/)
 * [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/)
+* [Hospital Data](https://data.medicare.gov/Hospital-Compare/Hospital-General-Information/xubh-q36u)
 
 ## Georgia
 * [Restaurant Inspections](http://dph.georgia.gov/environmental-health-inspections)
