@@ -202,6 +202,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Water Quality](https://water.usgs.gov/maps.html)
 
 ## State
+* [Floodplains](http://map.georgiadfirm.com/)
 * [Lakes, Ponds, Reservoirs, and Swamps](http://opendata.atlantaregional.com/datasets/lakes-ponds-reservoirs-and-swamps-georgia)
 * [River Basins](http://opendata.atlantaregional.com/datasets/river-basins-georgia)
 
