@@ -80,6 +80,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 * [Crime](https://municipal.systems/v1/municipalities/atl-ga/issues?limit=20)
 * [Sample of Police Incidents](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
 * [APD Camera Sample Data](https://www.dropbox.com/sh/w0nbcc9qxq4gt7k/AACN9h_Ny8CbixSM-bbSUqVha?dl=0)
+* [MARTA Crime Stats](http://www.itsmarta.com/crimestats.aspx)
 
 ## Johns Creek
 * [JCPD Calls for Service](https://policeview.johnscreekga.gov/en/Government/JCPD-Call-Volume-and-Types-of-Calls/ghqk-6cu6)
