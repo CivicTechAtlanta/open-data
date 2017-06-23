@@ -487,7 +487,7 @@ Other resources that aren't limited to Atlanta or Georgia but may be of interest
 
 ## U.S.
 * [GE Intelligent Environments APIs](https://ie-cities-docs.run.aws-usw02-pr.ice.predix.io/)
-* [GE Intelligent Environments FAQ](https://slack-files.com/T048Y4BRV-F5GTDG86Q-f99ac26b8b)
+* [GE Intelligent Environments FAQ](https://slack-files.com/T048Y4BRV-F5VF7J5HU-fd63033cd7)
 * [GE Intelligent Environments Reference App](https://github.com/CurrentByGE/ie-angular-cities-ref-app)
 
 
