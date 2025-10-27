@@ -6,7 +6,8 @@ const fs = require('mz/fs')
 //   {name: String, description: String, category: String, url: String}
 
 const scrapers = [
-  require('./socrata')()
+  //require('./socrata')() //DEPRECATED - see issue #16
+  //TODO: Replace this with something else
 ]
 
 Promise.all(scrapers)
